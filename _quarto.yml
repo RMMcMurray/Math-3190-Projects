@@ -18,16 +18,26 @@ website:
     contents:
       - section: "Homework"
         contents:
-          - Homework/Homework_1.html
-          - Homework/Homework_2.html
-          - Homework/Homework_3.html
-          - Homework/Homework_4.html
-          - Homework/Homework_5.html
-          - Homework/Homework_6.html
-          - Homework/Homework_7.html
-          - Homework/Homework_8.html
-          - Homework/Homework_9.html
-          - Homework/Homework_10.html
+          - text: Homework 1
+            href: Homework/Homework_1.html
+          - text: Homework 2
+            href: Homework/Homework_2.html
+          - text: Homework 3
+            href: Homework/Homework_3.html
+          - text: Homework 4
+            href: Homework/Homework_4.html
+          - text: Homework 5
+            href: Homework/Homework_5.html
+          - text: Homework 6
+            href: Homework/Homework_6.html
+          - text: Homework 7
+            href: Homework/Homework_7.html
+          - text: Homework 8
+            href: Homework/Homework_8.html
+          - text: Homework 9
+            href: Homework/Homework_9.html
+          - text: Homework 10
+            href: Homework/Homework_10.html
 
 format:
   html:
