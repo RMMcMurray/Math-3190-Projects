@@ -1,8 +1,6 @@
 ---
-title: "Math 3190 Website"
+title: "Math 3190 Portfolio"
 ---
-
-# Math 3190 Portfolio
 
 Welcome! This site contains my coursework and projects from Math 3190.
 

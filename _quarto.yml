@@ -4,33 +4,35 @@ project:
 
 website:
   title: "Math 3190 Portfolio"
-  
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/RMMcMurray/Math-3190-Projects
+
   sidebar:
     style: "docked"
     contents:
       - section: "Homework"
         contents:
-              - href: Homework/Homework_1.html
-              - href: Homework/Homework_2.html
-              - href: Homework/Homework_3.html
-              - href: Homework/Homework_4.html
-              - href: Homework/Homework_5.html
-              - href: Homework/Homework_6.html
-              - href: Homework/Homework_7.html
-              - href: Homework/Homework_8.html
-              - href: Homework/Homework_9.html
-              - href: Homework/Homework_10.html
-
-    right:
-      - icon: github
-        href: https://github.com/YOUR_USERNAME
-
+          - Homework/Homework_1.html
+          - Homework/Homework_2.html
+          - Homework/Homework_3.html
+          - Homework/Homework_4.html
+          - Homework/Homework_5.html
+          - Homework/Homework_6.html
+          - Homework/Homework_7.html
+          - Homework/Homework_8.html
+          - Homework/Homework_9.html
+          - Homework/Homework_10.html
 
 format:
   html:
     theme:
-      - cosmo
+      - flatly
       - brand
     css: styles.css
     toc: true
-
