@@ -2,6 +2,9 @@
 title: "Math 3190 Website"
 ---
 
-This is a Quarto website.
+# Math 3190 Portfolio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome! This site contains my coursework and projects from Math 3190.
+
+## GitHub
+[View my full repository](https://github.com/RMMcMurray)
